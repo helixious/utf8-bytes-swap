@@ -57,7 +57,7 @@ function bytesArrayToString(bytesArray){...};
 ```
 
 
-## stringToBytesArray(<string>)
+## stringToBytesArray(< string >)
 
 Return an array of integers from 0 through 255, inclusive, representing the
 bytes in the unicode string `str`.
