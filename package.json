@@ -1,0 +1,30 @@
+{
+  "name": "utf8-bytes-swap",
+  "version": "1.0.0",
+  "description": "This module converts UTF8 <-> Bytes Array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helixious/utf8-bytes-swap.git"
+  },
+  "keywords": [
+    "utf8",
+    "bytes",
+    "bytes",
+    "array",
+    "string",
+    "ipfs",
+    "cid",
+    "smart",
+    "contract"
+  ],
+  "author": "sle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helixious/utf8-bytes-swap/issues"
+  },
+  "homepage": "https://github.com/helixious/utf8-bytes-swap#readme"
+}
